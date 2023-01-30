@@ -9,7 +9,7 @@ namespace SnakLadder
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To Snake and Ladder Problem ");
-            Snake sk = new Snake();
+            Gamecs sk = new Gamecs();
             sk.player();
         }
     }
